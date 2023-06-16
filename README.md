@@ -43,13 +43,13 @@ To use this cache implementation, follow these steps:
 1. Clone the repository:
 
 ```
-git clone <repository_url>
+git clone https://github.com/Coffeedragon96/14-go-DS-Build-Own-Cache.git
 ```
 
 2. Navigate to the cloned directory:
 
 ```
-cd <repository_directory>
+cd https://github.com/Coffeedragon96/14-go-DS-Build-Own-Cache.git
 ```
 
 3. Build and run the code:
